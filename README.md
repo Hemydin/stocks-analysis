@@ -10,5 +10,6 @@ The tables below contain the total daily volume and the annual rate of return fo
 + To refactor VBA code, I added the following steps to the starter code provided in this Challenge (see steps 1a through 4). 
 ![Screenshot_VBA Refactoring](https://user-images.githubusercontent.com/100629325/174422364-82797df0-7f66-4097-9c0f-028974ab45cb.png)
 The outputs for the 2017 and 2018 stock analyses in the refactored "All Stock Analysis" script match the output from the original script; however, the code after refactoring runs almost seven times faster than before. The screenshots below show the execution time of the code before and after refactoring.
+
 ![Execution time before refactoring_2017](https://user-images.githubusercontent.com/100629325/174423444-b6e6c40b-248d-4d59-a09a-b65e7addfb90.png)![VBA_Challenge_2017](https://user-images.githubusercontent.com/100629325/174423448-21f982cd-05f7-4a4c-9da5-6fc772bf8861.png)
 
